@@ -85,16 +85,6 @@ python main.py --source path/to/video.mp4
 python main.py --source video.mp4 --flow --show-mask
 ```
 
-### Enable HOG pedestrian detector (second-pass confirmation)
-```bash
-python main.py --source video.mp4 --hog
-```
-
-### Save annotated output video
-```bash
-python main.py --source video.mp4 --save
-```
-
 ### Run headless (no GUI, just process and save)
 ```bash
 python main.py --source video.mp4 --save --no-display
