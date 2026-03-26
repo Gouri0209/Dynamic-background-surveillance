@@ -205,7 +205,4 @@ Display / Save
 
 ## Author
 
-**[Your Name]**  
-CSE3010 — Computer Vision  
-[Your University Name]  
-[Your Roll Number]
+**Gourikripa M V**  
