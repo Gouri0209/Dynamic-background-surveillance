@@ -12,16 +12,16 @@ Standard surveillance systems struggle when the background is dynamic. A tree sw
 
 ---
 
-## Syllabus Coverage (CSE3010)
+## Concpets
 
-| Module | Concept Applied |
+| Concept Applied |
 |--------|----------------|
-| Module 3 | Feature extraction, Edge detection, Contour analysis |
-| Module 3 | Image segmentation (foreground/background separation) |
-| Module 4 | Background subtraction & modeling (MOG2) |
-| Module 4 | Optical Flow — Lucas-Kanade (KLT) tracking |
-| Module 4 | HOG descriptor for pedestrian detection |
-| Experiment 12 | Object detection from dynamic background for surveillance |
+| Feature extraction, Edge detection, Contour analysis |
+| Image segmentation (foreground/background separation) |
+| Background subtraction & modeling (MOG2) |
+| Optical Flow — Lucas-Kanade (KLT) tracking |
+| HOG descriptor for pedestrian detection |
+| Object detection from dynamic background for surveillance |
 
 ---
 
